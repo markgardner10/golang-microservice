@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/markgardner10/golang-microservices/mvc/app"
+	"github.com/markgardner10/golang-microservice/mvc/app"
 )
 
 func main() {

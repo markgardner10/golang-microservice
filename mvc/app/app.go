@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/markgardner10/golang-microservices/mvc/controllers"
+	"github.com/markgardner10/golang-microservice/mvc/controllers"
 )
 
 func StartApp() {
